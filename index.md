@@ -6,3 +6,7 @@
 ###### Hi!
 
 I just learn how to head a text!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+This Yaktocat is adorable and cute!
