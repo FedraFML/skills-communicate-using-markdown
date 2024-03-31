@@ -12,6 +12,8 @@ I just learn how to head a text!
 This Yaktocat is adorable and cute!
 
 
+Example codes
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
